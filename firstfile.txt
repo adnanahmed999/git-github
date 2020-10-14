@@ -1,2 +1,3 @@
 Github is an important platform for software developers.
 Every developer should know git git github
+Knowing proper use of git github willl help us work as a team
